@@ -1,0 +1,17 @@
+/* 功能性处理的函数放在全局 */
+/* 去除火狐input粉红色边框 */
+@-moz-document url-prefix(){
+  input[required]:invalid, input:focus:invalid, textarea[required]:invalid, textarea:focus:invalid{box-shadow: none;}
+}
+
+// 多行打点
+.line-clamp(@lines){
+  text-overflow:ellipsis;
+  // display:-webkit-box;
+  display: block;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:@lines;
+  white-space: nowrap;
+  overflow:hidden;
+  max-height:150% * @lines;
+}

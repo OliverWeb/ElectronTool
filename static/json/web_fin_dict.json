@@ -1,0 +1,358 @@
+{
+    "RECORDS": [
+        {
+            "_id": "36",
+            "chinese": "网络广告",
+            "name": "Advertising Networks",
+            "slug": "advertising-networks"
+        },
+        {
+            "_id": "10",
+            "chinese": "网络分析",
+            "name": "Analytics",
+            "slug": "analytics"
+        },
+        {
+            "_id": "11",
+            "chinese": "博客",
+            "name": "Blogs",
+            "slug": "blogs"
+        },
+        {
+            "_id": "44",
+            "chinese": "持续集成环境",
+            "name": "Build CI Systems",
+            "slug": "build-ci-systems"
+        },
+        {
+            "_id": "23",
+            "chinese": "缓存工具",
+            "name": "Cache Tools",
+            "slug": "cache-tools"
+        },
+        {
+            "_id": "16",
+            "chinese": "验证码",
+            "name": "Captchas",
+            "slug": "captchas"
+        },
+        {
+            "_id": "31",
+            "chinese": "CDN",
+            "name": "CDN",
+            "slug": "cdn"
+        },
+        {
+            "_id": "1",
+            "chinese": "内容管理系统",
+            "name": "CMS",
+            "slug": "cms"
+        },
+        {
+            "_id": "15",
+            "chinese": "评论系统",
+            "name": "Comment Systems",
+            "slug": "comment-systems"
+        },
+        {
+            "_id": "45",
+            "chinese": "控制系统",
+            "name": "Control Systems",
+            "slug": "control-systems"
+        },
+        {
+            "_id": "3",
+            "chinese": "数据库管理",
+            "name": "Database Managers",
+            "slug": "database-managers"
+        },
+        {
+            "_id": "34",
+            "chinese": "数据库",
+            "name": "Databases",
+            "slug": "databases"
+        },
+        {
+            "_id": "47",
+            "chinese": "开发工具",
+            "name": "Dev Tools",
+            "slug": "dev-tools"
+        },
+        {
+            "_id": "50",
+            "chinese": "文件管理系统",
+            "name": "Document Management Systems",
+            "slug": "document-management-systems"
+        },
+        {
+            "_id": "4",
+            "chinese": "文档工具",
+            "name": "Documentation Tools",
+            "slug": "documentation-tools"
+        },
+        {
+            "_id": "6",
+            "chinese": "电子商务",
+            "name": "Ecommerce",
+            "slug": "ecommerce"
+        },
+        {
+            "_id": "20",
+            "chinese": "编辑器",
+            "name": "Editors",
+            "slug": "editors"
+        },
+        {
+            "_id": "49",
+            "chinese": "订阅",
+            "name": "Feed Readers",
+            "slug": "feed-readers"
+        },
+        {
+            "_id": "17",
+            "chinese": "字体脚本",
+            "name": "Font Scripts",
+            "slug": "font-scripts"
+        },
+        {
+            "_id": "9",
+            "chinese": "主机管理面板",
+            "name": "Hosting Panels",
+            "slug": "hosting-panels"
+        },
+        {
+            "_id": "13",
+            "chinese": "项目事务跟踪",
+            "name": "Issue Trackers",
+            "slug": "issue-trackers"
+        },
+        {
+            "_id": "12",
+            "chinese": "JavaScript框架",
+            "name": "JavaScript Frameworks",
+            "slug": "javascript-frameworks"
+        },
+        {
+            "_id": "25",
+            "chinese": "JavaScript图形",
+            "name": "JavaScript Graphics",
+            "slug": "javascript-graphics"
+        },
+        {
+            "_id": "21",
+            "chinese": "学习管理系统",
+            "name": "LMS",
+            "slug": "lms"
+        },
+        {
+            "_id": "35",
+            "chinese": "地图",
+            "name": "Maps",
+            "slug": "maps"
+        },
+        {
+            "_id": "32",
+            "chinese": "营销社交",
+            "name": "Marketing Automation",
+            "slug": "marketing-automation"
+        },
+        {
+            "_id": "38",
+            "chinese": "媒体服务",
+            "name": "Media Servers",
+            "slug": "media-servers"
+        },
+        {
+            "_id": "2",
+            "chinese": "留言板",
+            "name": "Message Boards",
+            "slug": "message-boards"
+        },
+        {
+            "_id": "19",
+            "chinese": "其他",
+            "name": "Miscellaneous",
+            "slug": "miscellaneous"
+        },
+        {
+            "_id": "26",
+            "chinese": "移动框架",
+            "name": "Mobile Frameworks",
+            "slug": "mobile-frameworks"
+        },
+        {
+            "_id": "37",
+            "chinese": "网络设备",
+            "name": "Network Devices",
+            "slug": "network-devices"
+        },
+        {
+            "_id": "48",
+            "chinese": "网络存储",
+            "name": "Network Storage",
+            "slug": "network-storage"
+        },
+        {
+            "_id": "28",
+            "chinese": "操作系统",
+            "name": "Operating Systems",
+            "slug": "operating-systems"
+        },
+        {
+            "_id": "41",
+            "chinese": "支付系统",
+            "name": "Payment Processors",
+            "slug": "payment-processors"
+        },
+        {
+            "_id": "43",
+            "chinese": "内容付费",
+            "name": "Paywalls",
+            "slug": "paywalls"
+        },
+        {
+            "_id": "7",
+            "chinese": "相册",
+            "name": "Photo Galleries",
+            "slug": "photo-galleries"
+        },
+        {
+            "_id": "40",
+            "chinese": "打印机",
+            "name": "Printers",
+            "slug": "printers"
+        },
+        {
+            "_id": "27",
+            "chinese": "开发语言",
+            "name": "Programming Languages",
+            "slug": "programming-languages"
+        },
+        {
+            "_id": "46",
+            "chinese": "远程管理",
+            "name": "Remote Access",
+            "slug": "remote-access"
+        },
+        {
+            "_id": "24",
+            "chinese": "富文本编辑器",
+            "name": "Rich Text Editors",
+            "slug": "rich-text-editors"
+        },
+        {
+            "_id": "29",
+            "chinese": "搜索引擎",
+            "name": "Search Engines",
+            "slug": "search-engines"
+        },
+        {
+            "_id": "42",
+            "chinese": "标签管理",
+            "name": "Tag Managers",
+            "slug": "tag-managers"
+        },
+        {
+            "_id": "14",
+            "chinese": "视频播放器",
+            "name": "Video Players",
+            "slug": "video-players"
+        },
+        {
+            "_id": "18",
+            "chinese": "Web框架",
+            "name": "Web Frameworks",
+            "slug": "web-frameworks"
+        },
+        {
+            "_id": "30",
+            "chinese": "网络邮件",
+            "name": "Web Mail",
+            "slug": "web-mail"
+        },
+        {
+            "_id": "33",
+            "chinese": "Web服务扩展",
+            "name": "Web Server Extensions",
+            "slug": "web-server-extensions"
+        },
+        {
+            "_id": "22",
+            "chinese": "Web服务",
+            "name": "Web Servers",
+            "slug": "web-servers"
+        },
+        {
+            "_id": "39",
+            "chinese": "摄像头",
+            "name": "Webcams",
+            "slug": "webcams"
+        },
+        {
+            "_id": "5",
+            "chinese": "小工具",
+            "name": "Widgets",
+            "slug": "widgets"
+        },
+        {
+            "_id": "8",
+            "chinese": "Wiki",
+            "name": "Wikis",
+            "slug": "wikis"
+        },
+        {
+            "_id": "55",
+            "chinese": "会计",
+            "name": "Accounting",
+            "slug": "accounting"
+        },
+        {
+            "_id": "53",
+            "chinese": "CRM",
+            "name": "CRM",
+            "slug": "crm"
+        },
+        {
+            "_id": "56",
+            "chinese": "挖矿",
+            "name": "Cryptominer",
+            "slug": "cryptominer"
+        },
+        {
+            "_id": "59",
+            "chinese": "JavaScript库",
+            "name": "JavaScript Libraries",
+            "slug": "javascript-libraries"
+        },
+        {
+            "_id": "51",
+            "chinese": "建站工具",
+            "name": "Landing Page Builders",
+            "slug": "landing-page-builders"
+        },
+        {
+            "_id": "52",
+            "chinese": "在线聊天",
+            "name": "Live Chat",
+            "slug": "live-chat"
+        },
+        {
+            "_id": "54",
+            "chinese": "SEO",
+            "name": "SEO",
+            "slug": "seo"
+        },
+        {
+            "_id": "57",
+            "chinese": "静态网站生成器",
+            "name": "Static Site Generator",
+            "slug": "static-site-generator"
+        },
+        {
+            "_id": "58",
+            "chinese": "用户体验",
+            "name": "User Onboarding",
+            "slug": "user-onboarding"
+        }
+    ]
+}

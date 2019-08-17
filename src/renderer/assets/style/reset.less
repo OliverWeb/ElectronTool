@@ -1,0 +1,66 @@
+// 这里的重置的css是在normalize.css npm包的基础上进行的重置
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  color: @text;
+  height: 100%;
+  font-size: 14px;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-family: "Microsoft YaHei", Arial, sans-serif,"PingFangSC-Regular","PingFang SC";
+}
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, form {
+  margin: 0;
+}
+
+h4, h5, h6 {
+  font-size: 1em;
+}
+
+html, body {
+  height: 100%;
+  min-width: 1000px;
+  min-height: 700px;
+  -webkit-overflow-scrolling:touch;
+}
+// @media screen and (max-width: 767px) {
+//   html,body {
+//     min-width: 0px;
+//     overflow-x: hidden;
+// }
+// }
+ul, ol {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+/*image with no-border*/
+a img {
+  border: 0;
+}
+
+img {
+  border: 0;
+}
+
+sup {
+  border: 0;
+  box-shadow: none;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+th {
+  font-weight: normal;
+}
+
+#app {
+  height: 100%;
+}

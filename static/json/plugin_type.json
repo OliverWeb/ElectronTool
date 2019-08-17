@@ -1,0 +1,214 @@
+[
+  {
+	"chinese": "暴力破解",
+	"type": "brute-force"
+  },
+  {
+	"chinese": "任意文件下载",
+	"type": "file-download"
+  },
+  {
+	"chinese": "本地文件包含",
+	"type": "lfi"
+  },
+  {
+	"chinese": "权限提升",
+	"type": "privilege-escalation"
+  },
+  {
+	"chinese": "空字节注入",
+	"type": "null-byte-inj"
+  },
+  {
+	"chinese": "登录绕过",
+	"type": "login-bypass"
+  },
+  {
+	"chinese": "Xquery 注入",
+	"type": "xquery-inj"
+  },
+  {
+	"chinese": "跨站脚本",
+	"type": "xss"
+  },
+  {
+	"chinese": "http请求伪造",
+	"type": "http-request-smuggling"
+  },
+  {
+	"chinese": "ldap注入",
+	"type": "ldap-inj"
+  },
+  {
+	"chinese": "http响应拆分",
+	"type": "http-response-splitting"
+  },
+  {
+	"chinese": "可预测资源定位",
+	"type": "res-location"
+  },
+  {
+	"chinese": "整数溢出",
+	"type": "int-overflow"
+  },
+  {
+	"chinese": "任意文件删除",
+	"type": "file-deletion"
+  },
+  {
+	"chinese": "Xpath注入",
+	"type": "xpath-inj"
+  },
+  {
+	"chinese": "后门",
+	"type": "backdoor"
+  },
+  {
+	"chinese": "内容欺骗",
+	"type": "spoofing"
+  },
+  {
+	"chinese": "邮件命令注入",
+	"type": "smtp-inj"
+  },
+  {
+	"chinese": "Ssi注入",
+	"type": "ssi-inj"
+  },
+  {
+	"chinese": "远程文件包含",
+	"type": "rfi"
+  },
+  {
+	"chinese": "命令执行",
+	"type": "cmd-exec"
+  },
+  {
+	"chinese": "文件上传",
+	"type": "file-upload"
+  },
+  {
+	"chinese": "http响应伪造",
+	"type": "http-response-smuggling"
+  },
+  {
+	"chinese": "备份文件发现",
+	"type": "bak-file-found"
+  },
+  {
+	"chinese": "证书预测",
+	"type": "credential-prediction"
+  },
+  {
+	"chinese": "指纹识别",
+	"type": "finger"
+  },
+  {
+	"chinese": "弱密码",
+	"type": "weak-pass"
+  },
+  {
+	"chinese": "远程密码修改",
+	"type": "remote-pass-change"
+  },
+  {
+	"chinese": "功能函数滥用",
+	"type": "func-abuse"
+  },
+  {
+	"chinese": "http参数污染",
+	"type": "hpp"
+  },
+  {
+	"chinese": "任意文件创建",
+	"type": "file-creation"
+  },
+  {
+	"chinese": "拒绝服务",
+	"type": "dos"
+  },
+  {
+	"chinese": "会话预测",
+	"type": "session-prediction"
+  },
+  {
+	"chinese": "安全模式绕过",
+	"type": "sec-bypass"
+  },
+  {
+	"chinese": "目录遍历",
+	"type": "dir-listing"
+  },
+  {
+	"chinese": "目录穿越",
+	"type": "dir-traversal"
+  },
+  {
+	"chinese": "格式化字符串",
+	"type": "format-string"
+  },
+  {
+	"chinese": "url重定向",
+	"type": "redirect"
+  },
+  {
+	"chinese": "挂马",
+	"type": "mal"
+  },
+  {
+	"chinese": "Xml注入",
+	"type": "xml-inj"
+  },
+  {
+	"chinese": "路径泄漏",
+	"type": "path-disclosure"
+  },
+  {
+	"chinese": "http请求拆分",
+	"type": "http-request-splitting"
+  },
+  {
+	"chinese": "代码泄漏",
+	"type": "code-disclosure"
+  },
+  {
+	"chinese": "Sql注入",
+	"type": "sql-inj"
+  },
+  {
+	"chinese": "跨站请求伪造",
+	"type": "csrf"
+  },
+  {
+	"chinese": "缓冲区溢出",
+	"type": "buffer-overflow"
+  },
+  {
+	"chinese": "会话固定",
+	"type": "session-fixation"
+  },
+  {
+	"chinese": "CRLF注入",
+	"type": "crlf-inj"
+  },
+  {
+	"chinese": "解析错误",
+	"type": "resolve-error"
+  },
+  {
+	"chinese": "信息泄漏",
+	"type": "info-disclosure"
+  },
+  {
+	"chinese": "暗链",
+	"type": "black-link"
+  },
+  {
+	"chinese": "数据库发现",
+	"type": "db-found"
+  },
+  {
+	"chinese": "代码执行",
+	"type": "code-exec"
+  }
+]
