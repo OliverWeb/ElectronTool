@@ -55,7 +55,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "blueimp-md5": "^2.10.0",
     "chardet": "^0.7.0",
     "child_process": "^1.0.2",
