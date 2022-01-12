@@ -71,7 +71,7 @@
     "less": "^3.8.1",
     "less-loader": "^4.1.0",
     "log": "^1.4.0",
-    "markdown-it": "^6.0.2",
+    "markdown-it": "^12.3.2",
     "miniprogram-sm-crypto": "0.0.5",
     "mosca": "^2.8.3",
     "mqtt": "^3.0.0",
